@@ -142,7 +142,8 @@
     "stressCheck": "压力检查",
     "burnoutTest": "倦怠测试",
     "overthinkerTest": "过度思考者测试",
-    "hspTest": "高敏感度测试"
+    "hspTest": "高敏感度测试",
+    "anxietyType": "焦虑类型"
   },
   "game": {
     "back": "DopaBrain 主页"

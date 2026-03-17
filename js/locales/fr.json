@@ -1,29 +1,151 @@
 {
-  "app": { "title": "Test de R\u00e9ponse au Stress", "loading": "Chargement...", "skipLink": "Aller au contenu" },
-  "meta": { "description": "Quel est votre type de r\u00e9ponse au stress ? Combat, Fuite, Gel ou Soumission ? D\u00e9couvrez-le en 8 questions !", "keywords": "test r\u00e9ponse stress, combat fuite gel soumission, r\u00e9ponse trauma, type stress, test psychologique", "og_title": "Test de R\u00e9ponse au Stress - Combat/Fuite/Gel/Soumission", "og_description": "8 questions r\u00e9v\u00e8lent votre type de r\u00e9ponse au stress !", "twitter_title": "Test de R\u00e9ponse au Stress - Combat/Fuite/Gel/Soumission", "twitter_description": "8 questions r\u00e9v\u00e8lent votre type de r\u00e9ponse au stress !", "page_title": "Test de R\u00e9ponse au Stress - Combat/Fuite/Gel/Soumission | DopaBrain" },
-  "intro": { "title": "Test de R\u00e9ponse au Stress", "subtitle": "Combat, Fuite, Gel ou Soumission ?", "social_proof": "personnes test\u00e9es", "feature_types": "4 types de r\u00e9ponse au stress", "feature_questions": "8 sc\u00e9narios de stress", "feature_metrics": "5 dimensions de stress", "time_estimate": "Environ 1 minute" },
-  "carousel": { "fighter": "Combattant", "flighter": "Fuyard", "freezer": "Gel\u00e9", "fawner": "Soumis" },
-  "button": { "start": "D\u00e9couvrez votre r\u00e9ponse au stress", "retry": "R\u00e9essayer", "share_kakao": "KakaoTalk", "share_twitter": "Twitter", "share_facebook": "Facebook", "share_copy": "Copier le lien" },
+  "app": {
+    "title": "Test de Réponse au Stress",
+    "loading": "Chargement...",
+    "skipLink": "Aller au contenu"
+  },
+  "meta": {
+    "description": "Quel est votre type de réponse au stress ? Combat, Fuite, Gel ou Soumission ? Découvrez-le en 8 questions !",
+    "keywords": "test réponse stress, combat fuite gel soumission, réponse trauma, type stress, test psychologique",
+    "og_title": "Test de Réponse au Stress - Combat/Fuite/Gel/Soumission",
+    "og_description": "8 questions révèlent votre type de réponse au stress !",
+    "twitter_title": "Test de Réponse au Stress - Combat/Fuite/Gel/Soumission",
+    "twitter_description": "8 questions révèlent votre type de réponse au stress !",
+    "page_title": "Test de Réponse au Stress - Combat/Fuite/Gel/Soumission | DopaBrain"
+  },
+  "intro": {
+    "title": "Test de Réponse au Stress",
+    "subtitle": "Combat, Fuite, Gel ou Soumission ?",
+    "social_proof": "personnes testées",
+    "feature_types": "4 types de réponse au stress",
+    "feature_questions": "8 scénarios de stress",
+    "feature_metrics": "5 dimensions de stress",
+    "time_estimate": "Environ 1 minute"
+  },
+  "carousel": {
+    "fighter": "Combattant",
+    "flighter": "Fuyard",
+    "freezer": "Gelé",
+    "fawner": "Soumis"
+  },
+  "button": {
+    "start": "Découvrez votre réponse au stress",
+    "retry": "Réessayer",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copier le lien"
+  },
   "question": {
-    "0": "Quand quelqu'un vous critique injustement, vous...", "0a": "Ripostez et vous d\u00e9fendez imm\u00e9diatement", "0b": "Quittez la situation le plus vite possible", "0c": "Vous figez et ne trouvez pas les mots", "0d": "\u00cates d'accord pour maintenir la paix",
-    "1": "Votre patron fixe un d\u00e9lai impossible, vous...", "1a": "Argumentez que c'est d\u00e9raisonnable et r\u00e9sistez", "1b": "Cherchez secr\u00e8tement un emploi le soir m\u00eame", "1c": "Fixez la t\u00e2che du regard, incapable de commencer", "1d": "Dites 'Bien s\u00fbr, pas de probl\u00e8me !' en souriant",
-    "2": "Un ami annule des plans \u00e0 la derni\u00e8re minute, vous...", "2a": "Le confrontez sur son manque de consid\u00e9ration", "2b": "Faites imm\u00e9diatement d'autres plans pour rester occup\u00e9", "2c": "Restez seul, ne sachant pas quoi faire", "2d": "Dites 'Ne t'inqui\u00e8te pas !' et le rassurez",
-    "3": "Dans une dispute anim\u00e9e, vous...", "3a": "Doublez la mise et refusez de reculer", "3b": "Partez avant que les choses ne s'enveniment", "3c": "Devenez compl\u00e8tement silencieux et vous fermez", "3d": "Vous excusez m\u00eame si vous savez avoir raison",
-    "4": "Quand submerg\u00e9 par les t\u00e2ches, vous...", "4a": "Foncez agressivement, sans pauses", "4b": "\u00c9chappez vers les r\u00e9seaux sociaux ou les distractions", "4c": "Fixez la liste, compl\u00e8tement paralys\u00e9", "4d": "Demandez d'abord aux autres ce dont ils ont besoin",
-    "5": "Quelqu'un vous coupe la route, vous...", "5a": "Klaxonnez, criez et le leur faites savoir", "5b": "Prenez un autre itin\u00e9raire pour les \u00e9viter", "5c": "Agrippez le volant, fig\u00e9 par le choc", "5d": "Leur faites signe de passer devant",
-    "6": "Vous recevez des critiques s\u00e9v\u00e8res sur votre travail, vous...", "6a": "D\u00e9fendez vos choix et r\u00e9pliquez", "6b": "Commencez imm\u00e9diatement \u00e0 chercher d'autres projets", "6c": "Relisez sans \u00e9motion, incapable de traiter", "6d": "R\u00e9\u00e9crivez tout pour les satisfaire compl\u00e8tement",
-    "7": "Face \u00e0 une d\u00e9cision majeure, vous...", "7a": "D\u00e9cidez vite et vous engagez pleinement", "7b": "\u00c9vitez d'y penser le plus longtemps possible", "7c": "Ne pouvez pas choisir et reportez ind\u00e9finiment", "7d": "Demandez \u00e0 tout le monde ce qu'ils pensent que vous devriez faire"
+    "0": "Quand quelqu'un vous critique injustement, vous...",
+    "0a": "Ripostez et vous défendez immédiatement",
+    "0b": "Quittez la situation le plus vite possible",
+    "0c": "Vous figez et ne trouvez pas les mots",
+    "0d": "Êtes d'accord pour maintenir la paix",
+    "1": "Votre patron fixe un délai impossible, vous...",
+    "1a": "Argumentez que c'est déraisonnable et résistez",
+    "1b": "Cherchez secrètement un emploi le soir même",
+    "1c": "Fixez la tâche du regard, incapable de commencer",
+    "1d": "Dites 'Bien sûr, pas de problème !' en souriant",
+    "2": "Un ami annule des plans à la dernière minute, vous...",
+    "2a": "Le confrontez sur son manque de considération",
+    "2b": "Faites immédiatement d'autres plans pour rester occupé",
+    "2c": "Restez seul, ne sachant pas quoi faire",
+    "2d": "Dites 'Ne t'inquiète pas !' et le rassurez",
+    "3": "Dans une dispute animée, vous...",
+    "3a": "Doublez la mise et refusez de reculer",
+    "3b": "Partez avant que les choses ne s'enveniment",
+    "3c": "Devenez complètement silencieux et vous fermez",
+    "3d": "Vous excusez même si vous savez avoir raison",
+    "4": "Quand submergé par les tâches, vous...",
+    "4a": "Foncez agressivement, sans pauses",
+    "4b": "Échappez vers les réseaux sociaux ou les distractions",
+    "4c": "Fixez la liste, complètement paralysé",
+    "4d": "Demandez d'abord aux autres ce dont ils ont besoin",
+    "5": "Quelqu'un vous coupe la route, vous...",
+    "5a": "Klaxonnez, criez et le leur faites savoir",
+    "5b": "Prenez un autre itinéraire pour les éviter",
+    "5c": "Agrippez le volant, figé par le choc",
+    "5d": "Leur faites signe de passer devant",
+    "6": "Vous recevez des critiques sévères sur votre travail, vous...",
+    "6a": "Défendez vos choix et répliquez",
+    "6b": "Commencez immédiatement à chercher d'autres projets",
+    "6c": "Relisez sans émotion, incapable de traiter",
+    "6d": "Réécrivez tout pour les satisfaire complètement",
+    "7": "Face à une décision majeure, vous...",
+    "7a": "Décidez vite et vous engagez pleinement",
+    "7b": "Évitez d'y penser le plus longtemps possible",
+    "7c": "Ne pouvez pas choisir et reportez indéfiniment",
+    "7d": "Demandez à tout le monde ce qu'ils pensent que vous devriez faire"
   },
-  "analyzing": { "title": "Analyse de vos sch\u00e9mas de stress...", "scanning": "Scan des r\u00e9ponses au stress...", "matching": "Correspondance avec les types de r\u00e9ponse...", "comparing": "Comparaison des sch\u00e9mas comportementaux...", "complete": "Analyse termin\u00e9e !" },
-  "result": { "your_type": "Votre type de r\u00e9ponse au stress", "stress_dimensions": "Dimensions du stress", "stress_metrics": "Scores par dimension", "key_traits": "Sch\u00e9mas cl\u00e9s", "moreTests": "Explorer plus", "share": "Partagez votre r\u00e9sultat", "percentile": "Seulement {pct} des participants sont de type {type}" },
-  "metric": { "confrontation": "Confrontation", "avoidance": "\u00c9vitement", "shutdown": "Fermeture", "accommodation": "Accommodement", "resilience": "R\u00e9silience" },
+  "analyzing": {
+    "title": "Analyse de vos schémas de stress...",
+    "scanning": "Scan des réponses au stress...",
+    "matching": "Correspondance avec les types de réponse...",
+    "comparing": "Comparaison des schémas comportementaux...",
+    "complete": "Analyse terminée !"
+  },
+  "result": {
+    "your_type": "Votre type de réponse au stress",
+    "stress_dimensions": "Dimensions du stress",
+    "stress_metrics": "Scores par dimension",
+    "key_traits": "Schémas clés",
+    "moreTests": "Explorer plus",
+    "share": "Partagez votre résultat",
+    "percentile": "Seulement {pct} des participants sont de type {type}"
+  },
+  "metric": {
+    "confrontation": "Confrontation",
+    "avoidance": "Évitement",
+    "shutdown": "Fermeture",
+    "accommodation": "Accommodement",
+    "resilience": "Résilience"
+  },
   "type": {
-    "fighter": { "name": "Combattant", "tagline": "Confronte, prend le contr\u00f4le, canalise le stress en action", "description": "Quand le stress frappe, vous ne reculez pas \u2014 vous foncez. Votre syst\u00e8me nerveux choisit la confrontation par d\u00e9faut, transformant l'anxi\u00e9t\u00e9 en agressivit\u00e9 et la peur en feu. Vous argumentez, vous poussez, vous prenez le contr\u00f4le. Cela peut \u00eatre incroyablement puissant, mais peut aussi escalader inutilement les conflits. Votre force est le courage, mais le d\u00e9fi est de savoir quand reculer.", "trait1": "Affronte les probl\u00e8mes de front", "trait2": "Canalise le stress en action", "trait3": "Pr\u00e9f\u00e8re se battre que de se sentir impuissant" },
-    "flighter": { "name": "Fuyard", "tagline": "S'\u00e9chappe, \u00e9vite, reste occup\u00e9 pour distancer le stress", "description": "Votre instinct de survie est de fuir \u2014 pas toujours physiquement, mais \u00e9motionnellement. Quand le stress appara\u00eet, vous fuyez. Vous restez occup\u00e9, vous travaillez trop, vous scrollez sans fin. L'\u00e9vitement est votre armure. Votre force est l'adaptabilit\u00e9, mais l'\u00e9vitement signifie que les probl\u00e8mes continuent de vous suivre.", "trait1": "\u00c9vite le conflit \u00e0 tout prix", "trait2": "Utilise l'occupation comme fuite", "trait3": "Ma\u00eetre de la distraction" },
-    "freezer": { "name": "Gel\u00e9", "tagline": "Se ferme, dissocie, s'engourdit sous pression", "description": "Quand le monde devient trop bruyant, vous devenez silencieux. Le stress ne vous fait pas combattre ou fuir \u2014 il vous g\u00e8le. Vous vous fermez, dissociez, d\u00e9crochez. Les d\u00e9cisions semblent impossibles. Ce n'est pas de la paresse \u2014 c'est votre syst\u00e8me nerveux en mode protection. Le d\u00e9fi est d'apprendre \u00e0 d\u00e9geler et \u00e0 vous reconnecter.", "trait1": "Paralys\u00e9 par les d\u00e9cisions", "trait2": "D\u00e9croche sous pression", "trait3": "Dissocie quand submerg\u00e9" },
-    "fawner": { "name": "Soumis", "tagline": "Complaisant, s'accommode excessivement, perd son identit\u00e9 pour la paix", "description": "Votre r\u00e9ponse au stress est de devenir ce dont les autres ont besoin. Vous complaisez, vous vous accommodez excessivement, vous acquiescez quand vous n'\u00eates pas d'accord, vous souriez quand vous souffrez. Le conflit vous terrifie \u2014 pas parce que vous \u00eates faible, mais parce que votre strat\u00e9gie de survie est d'\u00eatre inoffensif. Votre don est l'empathie profonde, mais le co\u00fbt est de vous perdre compl\u00e8tement. Vous comptez aussi.", "trait1": "Dit oui en pensant non", "trait2": "Met les autres avant soi", "trait3": "\u00c9vite le conflit par la complaisance" }
+    "fighter": {
+      "name": "Combattant",
+      "tagline": "Confronte, prend le contrôle, canalise le stress en action",
+      "description": "Quand le stress frappe, vous ne reculez pas — vous foncez. Votre système nerveux choisit la confrontation par défaut, transformant l'anxiété en agressivité et la peur en feu. Vous argumentez, vous poussez, vous prenez le contrôle. Cela peut être incroyablement puissant, mais peut aussi escalader inutilement les conflits. Votre force est le courage, mais le défi est de savoir quand reculer.",
+      "trait1": "Affronte les problèmes de front",
+      "trait2": "Canalise le stress en action",
+      "trait3": "Préfère se battre que de se sentir impuissant"
+    },
+    "flighter": {
+      "name": "Fuyard",
+      "tagline": "S'échappe, évite, reste occupé pour distancer le stress",
+      "description": "Votre instinct de survie est de fuir — pas toujours physiquement, mais émotionnellement. Quand le stress apparaît, vous fuyez. Vous restez occupé, vous travaillez trop, vous scrollez sans fin. L'évitement est votre armure. Votre force est l'adaptabilité, mais l'évitement signifie que les problèmes continuent de vous suivre.",
+      "trait1": "Évite le conflit à tout prix",
+      "trait2": "Utilise l'occupation comme fuite",
+      "trait3": "Maître de la distraction"
+    },
+    "freezer": {
+      "name": "Gelé",
+      "tagline": "Se ferme, dissocie, s'engourdit sous pression",
+      "description": "Quand le monde devient trop bruyant, vous devenez silencieux. Le stress ne vous fait pas combattre ou fuir — il vous gèle. Vous vous fermez, dissociez, décrochez. Les décisions semblent impossibles. Ce n'est pas de la paresse — c'est votre système nerveux en mode protection. Le défi est d'apprendre à dégeler et à vous reconnecter.",
+      "trait1": "Paralysé par les décisions",
+      "trait2": "Décroche sous pression",
+      "trait3": "Dissocie quand submergé"
+    },
+    "fawner": {
+      "name": "Soumis",
+      "tagline": "Complaisant, s'accommode excessivement, perd son identité pour la paix",
+      "description": "Votre réponse au stress est de devenir ce dont les autres ont besoin. Vous complaisez, vous vous accommodez excessivement, vous acquiescez quand vous n'êtes pas d'accord, vous souriez quand vous souffrez. Le conflit vous terrifie — pas parce que vous êtes faible, mais parce que votre stratégie de survie est d'être inoffensif. Votre don est l'empathie profonde, mais le coût est de vous perdre complètement. Vous comptez aussi.",
+      "trait1": "Dit oui en pensant non",
+      "trait2": "Met les autres avant soi",
+      "trait3": "Évite le conflit par la complaisance"
+    }
   },
-  "share": { "text": "Mon type de r\u00e9ponse au stress est \u00ab{type}\u00bb ! Et le v\u00f4tre ?" },
-  "related": { "stressCheck": "Bilan Stress", "burnoutTest": "Test Burnout", "overthinkerTest": "Test Surpens\u00e9e", "hspTest": "Test HSP" },
-  "game": { "back": "Accueil DopaBrain" }
+  "share": {
+    "text": "Mon type de réponse au stress est «{type}» ! Et le vôtre ?"
+  },
+  "related": {
+    "stressCheck": "Bilan Stress",
+    "burnoutTest": "Test Burnout",
+    "overthinkerTest": "Test Surpensée",
+    "hspTest": "Test HSP",
+    "anxietyType": "Type d'Anxiété"
+  },
+  "game": {
+    "back": "Accueil DopaBrain"
+  }
 }

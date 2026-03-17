@@ -1,25 +1,25 @@
 {
   "app": {
-    "title": "Test de Respuesta al Estr\u00e9s",
+    "title": "Test de Respuesta al Estrés",
     "loading": "Cargando...",
     "skipLink": "Saltar al contenido"
   },
   "meta": {
-    "description": "\u00bfCu\u00e1l es tu tipo de respuesta al estr\u00e9s? \u00bfLucha, huida, par\u00e1lisis o complacencia? \u00a1Desc\u00fabrelo con 8 preguntas!",
-    "keywords": "test respuesta estr\u00e9s, lucha huida par\u00e1lisis complacencia, respuesta trauma, tipo estr\u00e9s, test psicol\u00f3gico",
-    "og_title": "Test de Respuesta al Estr\u00e9s - Lucha/Huida/Par\u00e1lisis/Complacencia",
-    "og_description": "\u00a18 preguntas revelan tu tipo de respuesta al estr\u00e9s!",
-    "twitter_title": "Test de Respuesta al Estr\u00e9s - Lucha/Huida/Par\u00e1lisis/Complacencia",
-    "twitter_description": "\u00a18 preguntas revelan tu tipo de respuesta al estr\u00e9s!",
-    "page_title": "Test de Respuesta al Estr\u00e9s - Lucha/Huida/Par\u00e1lisis/Complacencia | DopaBrain"
+    "description": "¿Cuál es tu tipo de respuesta al estrés? ¿Lucha, huida, parálisis o complacencia? ¡Descúbrelo con 8 preguntas!",
+    "keywords": "test respuesta estrés, lucha huida parálisis complacencia, respuesta trauma, tipo estrés, test psicológico",
+    "og_title": "Test de Respuesta al Estrés - Lucha/Huida/Parálisis/Complacencia",
+    "og_description": "¡8 preguntas revelan tu tipo de respuesta al estrés!",
+    "twitter_title": "Test de Respuesta al Estrés - Lucha/Huida/Parálisis/Complacencia",
+    "twitter_description": "¡8 preguntas revelan tu tipo de respuesta al estrés!",
+    "page_title": "Test de Respuesta al Estrés - Lucha/Huida/Parálisis/Complacencia | DopaBrain"
   },
   "intro": {
-    "title": "Test de Respuesta al Estr\u00e9s",
-    "subtitle": "\u00bfLucha, huida, par\u00e1lisis o complacencia?",
+    "title": "Test de Respuesta al Estrés",
+    "subtitle": "¿Lucha, huida, parálisis o complacencia?",
     "social_proof": "personas evaluadas",
-    "feature_types": "4 tipos de respuesta al estr\u00e9s",
-    "feature_questions": "8 escenarios de estr\u00e9s",
-    "feature_metrics": "5 dimensiones de estr\u00e9s",
+    "feature_types": "4 tipos de respuesta al estrés",
+    "feature_questions": "8 escenarios de estrés",
+    "feature_metrics": "5 dimensiones de estrés",
     "time_estimate": "Toma alrededor de 1 minuto"
   },
   "carousel": {
@@ -29,7 +29,7 @@
     "fawner": "Complaciente"
   },
   "button": {
-    "start": "Descubre tu respuesta al estr\u00e9s",
+    "start": "Descubre tu respuesta al estrés",
     "retry": "Intentar de nuevo",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
@@ -37,73 +37,66 @@
     "share_copy": "Copiar enlace"
   },
   "question": {
-    "0": "Cuando alguien te critica injustamente, t\u00fa...",
+    "0": "Cuando alguien te critica injustamente, tú...",
     "0a": "Respondes de inmediato y te defiendes",
-    "0b": "Te vas de la situaci\u00f3n lo m\u00e1s r\u00e1pido posible",
+    "0b": "Te vas de la situación lo más rápido posible",
     "0c": "Te quedas paralizado y no encuentras palabras",
-    "0d": "Les das la raz\u00f3n para mantener la paz",
-
-    "1": "Tu jefe asigna un plazo imposible, t\u00fa...",
+    "0d": "Les das la razón para mantener la paz",
+    "1": "Tu jefe asigna un plazo imposible, tú...",
     "1a": "Argumentas que es irrazonable y te resistes",
     "1b": "Esa noche empiezas a buscar otro trabajo en secreto",
     "1c": "Miras la tarea en blanco, incapaz de empezar",
-    "1d": "Dices '\u00a1Claro, sin problema!' con una sonrisa",
-
-    "2": "Un amigo cancela planes a \u00faltima hora, t\u00fa...",
+    "1d": "Dices '¡Claro, sin problema!' con una sonrisa",
+    "2": "Un amigo cancela planes a última hora, tú...",
     "2a": "Le confrontas por ser desconsiderado",
     "2b": "Haces otros planes inmediatamente para mantenerte ocupado",
-    "2c": "Te quedas solo, sin saber qu\u00e9 hacer",
-    "2d": "Dices '\u00a1No te preocupes!' y lo tranquilizas",
-
-    "3": "En una discusi\u00f3n acalorada, t\u00fa...",
-    "3a": "Insistes a\u00fan m\u00e1s y te niegas a ceder",
+    "2c": "Te quedas solo, sin saber qué hacer",
+    "2d": "Dices '¡No te preocupes!' y lo tranquilizas",
+    "3": "En una discusión acalorada, tú...",
+    "3a": "Insistes aún más y te niegas a ceder",
     "3b": "Te vas antes de que las cosas escalen",
     "3c": "Te quedas completamente en silencio y te cierras",
-    "3d": "Te disculpas aunque sabes que tienes raz\u00f3n",
-
-    "4": "Cuando te abruman las tareas, t\u00fa...",
+    "3d": "Te disculpas aunque sabes que tienes razón",
+    "4": "Cuando te abruman las tareas, tú...",
     "4a": "Avanzas agresivamente, sin descansos",
     "4b": "Escapas a las redes sociales o distracciones",
     "4c": "Miras la lista completamente paralizado",
-    "4d": "Preguntas primero qu\u00e9 necesitan los dem\u00e1s",
-
-    "5": "Alguien te corta en el tr\u00e1fico, t\u00fa...",
+    "4d": "Preguntas primero qué necesitan los demás",
+    "5": "Alguien te corta en el tráfico, tú...",
     "5a": "Tocas el claxon, gritas y se lo haces saber",
     "5b": "Tomas una ruta diferente para evitarlos",
     "5c": "Agarras el volante, paralizado por el susto",
     "5d": "Los dejas pasar con un gesto amable",
-
-    "6": "Recibes cr\u00edticas duras sobre tu trabajo, t\u00fa...",
+    "6": "Recibes críticas duras sobre tu trabajo, tú...",
     "6a": "Defiendes tus decisiones y respondes",
     "6b": "Empiezas a buscar otros proyectos de inmediato",
     "6c": "Lo relees insensiblemente, sin poder procesarlo",
     "6d": "Reescribes todo para complacerlos por completo",
-
-    "7": "Ante una decisi\u00f3n importante en la vida, t\u00fa...",
-    "7a": "Decides r\u00e1pido y te comprometes al m\u00e1ximo",
+    "7": "Ante una decisión importante en la vida, tú...",
+    "7a": "Decides rápido y te comprometes al máximo",
     "7b": "Evitas pensar en ello el mayor tiempo posible",
     "7c": "No puedes elegir y lo pospones indefinidamente",
-    "7d": "Preguntas a todos qu\u00e9 creen que deber\u00edas hacer"
+    "7d": "Preguntas a todos qué creen que deberías hacer"
   },
   "analyzing": {
-    "title": "Analizando tus patrones de estr\u00e9s...",
-    "scanning": "Escaneando respuestas al estr\u00e9s...",
+    "title": "Analizando tus patrones de estrés...",
+    "scanning": "Escaneando respuestas al estrés...",
     "matching": "Coincidiendo con tipos de respuesta...",
     "comparing": "Comparando patrones de comportamiento...",
-    "complete": "\u00a1An\u00e1lisis completo!"
+    "complete": "¡Análisis completo!"
   },
   "result": {
-    "your_type": "Tu tipo de respuesta al estr\u00e9s",
-    "stress_dimensions": "Dimensiones de estr\u00e9s",
-    "stress_metrics": "Puntuaciones por dimensi\u00f3n",
+    "your_type": "Tu tipo de respuesta al estrés",
+    "stress_dimensions": "Dimensiones de estrés",
+    "stress_metrics": "Puntuaciones por dimensión",
     "key_traits": "Patrones clave",
-    "moreTests": "Explora m\u00e1s",
+    "moreTests": "Explora más",
     "share": "Comparte tu resultado",
     "percentile": "Solo {pct} de los participantes son del tipo {type}"
   },
   "metric": {
-    "confrontation": "Confrontaci\u00f3n",
-    "avoidance": "Evitaci\u00f3n",
+    "confrontation": "Confrontación",
+    "avoidance": "Evitación",
     "shutdown": "Bloqueo",
     "accommodation": "Complacencia",
     "resilience": "Resiliencia"
@@ -111,45 +104,46 @@
   "type": {
     "fighter": {
       "name": "Luchador",
-      "tagline": "Confronta, toma el control, canaliza el estr\u00e9s en acci\u00f3n",
-      "description": "Cuando llega el estr\u00e9s, no retrocedes, cargas hacia adelante. Tu sistema nervioso recurre a la confrontaci\u00f3n, transformando la ansiedad en agresi\u00f3n y el miedo en fuego. Discutes, presionas, tomas el control. Esto puede ser incre\u00edblemente empoderador y protector, pero tambi\u00e9n puede escalar conflictos innecesariamente. Prefieres quemar puentes a sentirte impotente. Tu fortaleza es el coraje, pero tu desaf\u00edo es saber cu\u00e1ndo ceder.",
+      "tagline": "Confronta, toma el control, canaliza el estrés en acción",
+      "description": "Cuando llega el estrés, no retrocedes, cargas hacia adelante. Tu sistema nervioso recurre a la confrontación, transformando la ansiedad en agresión y el miedo en fuego. Discutes, presionas, tomas el control. Esto puede ser increíblemente empoderador y protector, pero también puede escalar conflictos innecesariamente. Prefieres quemar puentes a sentirte impotente. Tu fortaleza es el coraje, pero tu desafío es saber cuándo ceder.",
       "trait1": "Enfrenta los problemas de frente",
-      "trait2": "Canaliza el estr\u00e9s en acci\u00f3n",
+      "trait2": "Canaliza el estrés en acción",
       "trait3": "Prefiere luchar a sentirse indefenso"
     },
     "flighter": {
       "name": "Escapista",
-      "tagline": "Escapa, evita, se mantiene ocupado para superar el estr\u00e9s",
-      "description": "Tu instinto de supervivencia es huir, no siempre f\u00edsicamente, pero emocionalmente. Cuando el estr\u00e9s aparece, escapas. Te mantienes ocupado, trabajas en exceso, scrolleas sin fin o simplemente desapareces de situaciones amenazantes. La evitaci\u00f3n es tu armadura. Eres el maestro de la distracci\u00f3n, manteni\u00e9ndote tan ocupado que nunca tienes que lidiar con sentimientos inc\u00f3modos. Tu fortaleza es la adaptabilidad, pero la evitaci\u00f3n hace que los problemas te sigan.",
+      "tagline": "Escapa, evita, se mantiene ocupado para superar el estrés",
+      "description": "Tu instinto de supervivencia es huir, no siempre físicamente, pero emocionalmente. Cuando el estrés aparece, escapas. Te mantienes ocupado, trabajas en exceso, scrolleas sin fin o simplemente desapareces de situaciones amenazantes. La evitación es tu armadura. Eres el maestro de la distracción, manteniéndote tan ocupado que nunca tienes que lidiar con sentimientos incómodos. Tu fortaleza es la adaptabilidad, pero la evitación hace que los problemas te sigan.",
       "trait1": "Evita el conflicto a toda costa",
-      "trait2": "Usa la ocupaci\u00f3n como escape",
-      "trait3": "Maestro de la distracci\u00f3n"
+      "trait2": "Usa la ocupación como escape",
+      "trait3": "Maestro de la distracción"
     },
     "freezer": {
       "name": "Paralizado",
-      "tagline": "Se bloquea, se disocia, se entumece bajo presi\u00f3n",
-      "description": "Cuando el mundo se vuelve demasiado ruidoso, t\u00fa te vuelves silencioso. El estr\u00e9s no te hace luchar ni huir, te paraliza. Te bloqueas, te disociarse, te desconectas. Las decisiones parecen imposibles. Tu cerebro presiona pausa y te conviertes en espectador de tu propia vida. Esto no es pereza ni apat\u00eda, es tu sistema nervioso entrando en modo de protecci\u00f3n. Tu desaf\u00edo es aprender a descongelarte, a reconectarte, a moverte cuando todo en ti dice qu\u00e9date quieto.",
+      "tagline": "Se bloquea, se disocia, se entumece bajo presión",
+      "description": "Cuando el mundo se vuelve demasiado ruidoso, tú te vuelves silencioso. El estrés no te hace luchar ni huir, te paraliza. Te bloqueas, te disociarse, te desconectas. Las decisiones parecen imposibles. Tu cerebro presiona pausa y te conviertes en espectador de tu propia vida. Esto no es pereza ni apatía, es tu sistema nervioso entrando en modo de protección. Tu desafío es aprender a descongelarte, a reconectarte, a moverte cuando todo en ti dice quédate quieto.",
       "trait1": "Paralizado por las decisiones",
-      "trait2": "Se desconecta bajo presi\u00f3n",
-      "trait3": "Se disocia cuando est\u00e1 abrumado"
+      "trait2": "Se desconecta bajo presión",
+      "trait3": "Se disocia cuando está abrumado"
     },
     "fawner": {
       "name": "Complaciente",
       "tagline": "Complace a otros, se acomoda en exceso, pierde su identidad por la paz",
-      "description": "Tu respuesta al estr\u00e9s es convertirte en lo que otros necesitan que seas. Complaces, te acomodas en exceso, aceptas cuando no est\u00e1s de acuerdo y sonr\u00edes cuando te duele. El conflicto te aterroriza, no porque seas d\u00e9bil, sino porque tu estrategia de supervivencia es ser inofensivo. Has aprendido que hacer felices a otros te mantiene seguro. Tu don es la empat\u00eda profunda, pero el costo es perderte por completo. T\u00fa tambi\u00e9n importas.",
-      "trait1": "Dice s\u00ed cuando piensa no",
-      "trait2": "Prioriza a otros sobre s\u00ed mismo",
+      "description": "Tu respuesta al estrés es convertirte en lo que otros necesitan que seas. Complaces, te acomodas en exceso, aceptas cuando no estás de acuerdo y sonríes cuando te duele. El conflicto te aterroriza, no porque seas débil, sino porque tu estrategia de supervivencia es ser inofensivo. Has aprendido que hacer felices a otros te mantiene seguro. Tu don es la empatía profunda, pero el costo es perderte por completo. Tú también importas.",
+      "trait1": "Dice sí cuando piensa no",
+      "trait2": "Prioriza a otros sobre sí mismo",
       "trait3": "Evita el conflicto con complacencia"
     }
   },
   "share": {
-    "text": "\u00a1Mi tipo de respuesta al estr\u00e9s es '{type}'! \u00bfCu\u00e1l es el tuyo?"
+    "text": "¡Mi tipo de respuesta al estrés es '{type}'! ¿Cuál es el tuyo?"
   },
   "related": {
-    "stressCheck": "Test de Estr\u00e9s",
+    "stressCheck": "Test de Estrés",
     "burnoutTest": "Test de Burnout",
     "overthinkerTest": "Test de Pensar Demasiado",
-    "hspTest": "Test PAS"
+    "hspTest": "Test PAS",
+    "anxietyType": "Tipo de Ansiedad"
   },
   "game": {
     "back": "Inicio DopaBrain"

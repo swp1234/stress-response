@@ -42,43 +42,36 @@
     "0b": "Leave the situation as fast as possible",
     "0c": "Freeze up and can't find words to respond",
     "0d": "Agree with them to keep the peace",
-
     "1": "Your boss assigns an impossible deadline, you...",
     "1a": "Argue that it's unreasonable and push back",
     "1b": "Secretly start job searching that evening",
     "1c": "Stare blankly at the task, unable to start",
     "1d": "Say 'Sure, no problem!' with a smile",
-
     "2": "A friend cancels plans last minute, you...",
     "2a": "Confront them about being inconsiderate",
     "2b": "Immediately make other plans to stay busy",
     "2c": "Sit alone, unsure what to do with yourself",
     "2d": "Say 'Don't worry about it!' and reassure them",
-
     "3": "In a heated argument, you...",
     "3a": "Double down and refuse to back off",
     "3b": "Walk away before things escalate",
     "3c": "Go completely silent and shut down",
     "3d": "Apologize even when you know you're right",
-
     "4": "When overwhelmed by tasks, you...",
     "4a": "Power through aggressively, no breaks",
     "4b": "Escape to social media or distractions",
     "4c": "Stare at the list, completely paralyzed",
     "4d": "Ask everyone else what they need first",
-
     "5": "Someone cuts you off in traffic, you...",
     "5a": "Honk, yell, and let them know about it",
     "5b": "Take a different route to avoid them",
     "5c": "Grip the steering wheel, frozen in shock",
     "5d": "Wave them ahead and let them go",
-
     "6": "You receive harsh feedback on your work, you...",
     "6a": "Defend your choices and push back",
     "6b": "Start looking for other projects immediately",
     "6c": "Reread it numbly, unable to process",
     "6d": "Rewrite everything to please them completely",
-
     "7": "When facing a major life decision, you...",
     "7a": "Decide quickly and commit with full force",
     "7b": "Avoid thinking about it as long as possible",
@@ -149,7 +142,8 @@
     "stressCheck": "Stress Check",
     "burnoutTest": "Burnout Test",
     "overthinkerTest": "Overthinker Test",
-    "hspTest": "HSP Test"
+    "hspTest": "HSP Test",
+    "anxietyType": "Anxiety Type"
   },
   "game": {
     "back": "DopaBrain Home"

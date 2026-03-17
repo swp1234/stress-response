@@ -1,29 +1,151 @@
 {
-  "app": { "title": "Stres Tepkisi Testi", "loading": "Yükleniyor...", "skipLink": "Ana içeriğe geç" },
-  "meta": { "description": "Stres tepki tipin ne? Savaş, Kaçış, Don, veya Boyun Eğ? 8 soruyla keşfet!", "keywords": "stres tepkisi testi, savaş kaçış don boyun eğ, travma tepkisi, stres tipi, psikoloji testi", "og_title": "Stres Tepkisi Testi - Savaş/Kaçış/Don/Boyun Eğ", "og_description": "8 soru stres tepki tipini ortaya çıkarır!", "twitter_title": "Stres Tepkisi Testi - Savaş/Kaçış/Don/Boyun Eğ", "twitter_description": "8 soru stres tepki tipini ortaya çıkarır!", "page_title": "Stres Tepkisi Testi - Savaş/Kaçış/Don/Boyun Eğ | DopaBrain" },
-  "intro": { "title": "Stres Tepkisi Testi", "subtitle": "Savaş, Kaçış, Don veya Boyun Eğ?", "social_proof": "kişi test etti", "feature_types": "4 stres tepki tipi", "feature_questions": "8 stres senaryosu", "feature_metrics": "5 stres boyutu", "time_estimate": "Yaklaşık 1 dakika sürer" },
-  "carousel": { "fighter": "Savaşçı", "flighter": "Kaçak", "freezer": "Donuk", "fawner": "Uyumlu" },
-  "button": { "start": "Stres Tepkini Keşfet", "retry": "Tekrar Dene", "share_kakao": "KakaoTalk", "share_twitter": "Twitter", "share_facebook": "Facebook", "share_copy": "Bağlantıyı Kopyala" },
+  "app": {
+    "title": "Stres Tepkisi Testi",
+    "loading": "Yükleniyor...",
+    "skipLink": "Ana içeriğe geç"
+  },
+  "meta": {
+    "description": "Stres tepki tipin ne? Savaş, Kaçış, Don, veya Boyun Eğ? 8 soruyla keşfet!",
+    "keywords": "stres tepkisi testi, savaş kaçış don boyun eğ, travma tepkisi, stres tipi, psikoloji testi",
+    "og_title": "Stres Tepkisi Testi - Savaş/Kaçış/Don/Boyun Eğ",
+    "og_description": "8 soru stres tepki tipini ortaya çıkarır!",
+    "twitter_title": "Stres Tepkisi Testi - Savaş/Kaçış/Don/Boyun Eğ",
+    "twitter_description": "8 soru stres tepki tipini ortaya çıkarır!",
+    "page_title": "Stres Tepkisi Testi - Savaş/Kaçış/Don/Boyun Eğ | DopaBrain"
+  },
+  "intro": {
+    "title": "Stres Tepkisi Testi",
+    "subtitle": "Savaş, Kaçış, Don veya Boyun Eğ?",
+    "social_proof": "kişi test etti",
+    "feature_types": "4 stres tepki tipi",
+    "feature_questions": "8 stres senaryosu",
+    "feature_metrics": "5 stres boyutu",
+    "time_estimate": "Yaklaşık 1 dakika sürer"
+  },
+  "carousel": {
+    "fighter": "Savaşçı",
+    "flighter": "Kaçak",
+    "freezer": "Donuk",
+    "fawner": "Uyumlu"
+  },
+  "button": {
+    "start": "Stres Tepkini Keşfet",
+    "retry": "Tekrar Dene",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Bağlantıyı Kopyala"
+  },
   "question": {
-    "0": "Birisi seni haksız yere eleştirdiğinde, sen...", "0a": "Hemen karşılık verir ve kendini savunursun", "0b": "Durumdan mümkün olduğunca çabuk uzaklaşırsın", "0c": "Donup kalırsın ve cevap verecek söz bulamazsın", "0d": "Barışı korumak için onlara katılırsın",
-    "1": "Patronun imkansız bir teslim tarihi koyuyor, sen...", "1a": "Mantıksız olduğunu söyleyip karşı çıkarsın", "1b": "O akşam gizlice iş aramaya başlarsın", "1c": "Göreve boş boş bakar, başlayamazsın", "1d": "Gülümseyerek 'Tabii, sorun yok!' dersin",
-    "2": "Arkadaşın son dakika planları iptal ediyor, sen...", "2a": "Düşüncesiz olduğunu yüzüne söylersin", "2b": "Hemen başka planlar yaparsın", "2c": "Yalnız oturursun, ne yapacağını bilemezsin", "2d": "'Merak etme!' der ve onu rahatlatmaya çalışırsın",
-    "3": "Ateşli bir tartışmada, sen...", "3a": "Daha da çok bastırır ve geri adım atmazsın", "3b": "Durum kızışmadan önce uzaklaşırsın", "3c": "Tamamen susarsın ve kapanırsın", "3d": "Haklı olduğunu bilsen bile özür dilersin",
-    "4": "Görevlerle boğulduğunda, sen...", "4a": "Mola vermeden agresif bir şekilde ilerlemeye devam edersin", "4b": "Sosyal medyaya veya dikkat dağıtıcılara kaçarsın", "4c": "Listeye bakar, tamamen felce uğrarsın", "4d": "Önce başkalarının neye ihtiyacı olduğunu sorarsın",
-    "5": "Birisi trafikte önüne kırıyor, sen...", "5a": "Korna çalar, bağırır ve onlara bildirirsin", "5b": "Onlardan kaçınmak için farklı bir yol alırsın", "5c": "Direksiyona sıkıca tutunursun, şokla donarsın", "5d": "El sallayarak önce geçmelerine izin verirsin",
-    "6": "İşin hakkında sert geri bildirim alıyorsun, sen...", "6a": "Seçimlerini savunur ve karşılık verirsin", "6b": "Hemen başka projeler aramaya başlarsın", "6c": "Duygusuzca tekrar tekrar okursun, işleyemezsin", "6d": "Onları tamamen memnun etmek için her şeyi yeniden yazarsın",
-    "7": "Büyük bir yaşam kararıyla karşı karşıya geldiğinde, sen...", "7a": "Hızla karar verir ve tam güçle bağlanırsın", "7b": "Mümkün olduğunca uzun süre düşünmekten kaçınırsın", "7c": "Seçemezsin ve süresiz ertelersin", "7d": "Herkese ne yapman gerektiğini düşündüklerini sorarsın"
+    "0": "Birisi seni haksız yere eleştirdiğinde, sen...",
+    "0a": "Hemen karşılık verir ve kendini savunursun",
+    "0b": "Durumdan mümkün olduğunca çabuk uzaklaşırsın",
+    "0c": "Donup kalırsın ve cevap verecek söz bulamazsın",
+    "0d": "Barışı korumak için onlara katılırsın",
+    "1": "Patronun imkansız bir teslim tarihi koyuyor, sen...",
+    "1a": "Mantıksız olduğunu söyleyip karşı çıkarsın",
+    "1b": "O akşam gizlice iş aramaya başlarsın",
+    "1c": "Göreve boş boş bakar, başlayamazsın",
+    "1d": "Gülümseyerek 'Tabii, sorun yok!' dersin",
+    "2": "Arkadaşın son dakika planları iptal ediyor, sen...",
+    "2a": "Düşüncesiz olduğunu yüzüne söylersin",
+    "2b": "Hemen başka planlar yaparsın",
+    "2c": "Yalnız oturursun, ne yapacağını bilemezsin",
+    "2d": "'Merak etme!' der ve onu rahatlatmaya çalışırsın",
+    "3": "Ateşli bir tartışmada, sen...",
+    "3a": "Daha da çok bastırır ve geri adım atmazsın",
+    "3b": "Durum kızışmadan önce uzaklaşırsın",
+    "3c": "Tamamen susarsın ve kapanırsın",
+    "3d": "Haklı olduğunu bilsen bile özür dilersin",
+    "4": "Görevlerle boğulduğunda, sen...",
+    "4a": "Mola vermeden agresif bir şekilde ilerlemeye devam edersin",
+    "4b": "Sosyal medyaya veya dikkat dağıtıcılara kaçarsın",
+    "4c": "Listeye bakar, tamamen felce uğrarsın",
+    "4d": "Önce başkalarının neye ihtiyacı olduğunu sorarsın",
+    "5": "Birisi trafikte önüne kırıyor, sen...",
+    "5a": "Korna çalar, bağırır ve onlara bildirirsin",
+    "5b": "Onlardan kaçınmak için farklı bir yol alırsın",
+    "5c": "Direksiyona sıkıca tutunursun, şokla donarsın",
+    "5d": "El sallayarak önce geçmelerine izin verirsin",
+    "6": "İşin hakkında sert geri bildirim alıyorsun, sen...",
+    "6a": "Seçimlerini savunur ve karşılık verirsin",
+    "6b": "Hemen başka projeler aramaya başlarsın",
+    "6c": "Duygusuzca tekrar tekrar okursun, işleyemezsin",
+    "6d": "Onları tamamen memnun etmek için her şeyi yeniden yazarsın",
+    "7": "Büyük bir yaşam kararıyla karşı karşıya geldiğinde, sen...",
+    "7a": "Hızla karar verir ve tam güçle bağlanırsın",
+    "7b": "Mümkün olduğunca uzun süre düşünmekten kaçınırsın",
+    "7c": "Seçemezsin ve süresiz ertelersin",
+    "7d": "Herkese ne yapman gerektiğini düşündüklerini sorarsın"
   },
-  "analyzing": { "title": "Stres kalıpların analiz ediliyor...", "scanning": "Stres tepkileri taranıyor...", "matching": "Tepki tipleriyle eşleştiriliyor...", "comparing": "Davranış kalıpları karşılaştırılıyor...", "complete": "Analiz tamamlandı!" },
-  "result": { "your_type": "Stres Tepki Tipin", "stress_dimensions": "Stres Boyutları", "stress_metrics": "Boyut Puanları", "key_traits": "Anahtar Kalıplar", "moreTests": "Daha Fazla Keşfet", "share": "Sonucunu Paylaş", "percentile": "Katılımcıların yalnızca {pct}'si {type} tipindedir" },
-  "metric": { "confrontation": "Yüzleşme", "avoidance": "Kaçınma", "shutdown": "Kapanma", "accommodation": "Uyum", "resilience": "Dayanıklılık" },
+  "analyzing": {
+    "title": "Stres kalıpların analiz ediliyor...",
+    "scanning": "Stres tepkileri taranıyor...",
+    "matching": "Tepki tipleriyle eşleştiriliyor...",
+    "comparing": "Davranış kalıpları karşılaştırılıyor...",
+    "complete": "Analiz tamamlandı!"
+  },
+  "result": {
+    "your_type": "Stres Tepki Tipin",
+    "stress_dimensions": "Stres Boyutları",
+    "stress_metrics": "Boyut Puanları",
+    "key_traits": "Anahtar Kalıplar",
+    "moreTests": "Daha Fazla Keşfet",
+    "share": "Sonucunu Paylaş",
+    "percentile": "Katılımcıların yalnızca {pct}'si {type} tipindedir"
+  },
+  "metric": {
+    "confrontation": "Yüzleşme",
+    "avoidance": "Kaçınma",
+    "shutdown": "Kapanma",
+    "accommodation": "Uyum",
+    "resilience": "Dayanıklılık"
+  },
   "type": {
-    "fighter": { "name": "Savaşçı", "tagline": "Yüzleşir, kontrolü alır, stresi eyleme dönüştürür", "description": "Stres geldiğinde geri adım atmazsın — ileri atılırsın. Sinir sistemin yüzleşmeyi seçer, kaygıyı saldırganlığa, korkuyu ateşe dönüştürür. Tartışır, baskı yapar, kontrolü alırsın. Bu inanılmaz güçlendirici olabilir ama çatışmaları gereksiz yere tırmandırabilir. Gücün cesaret, ama zorluk ne zaman geri çekileceğini bilmek.", "trait1": "Sorunlarla doğrudan yüzleşir", "trait2": "Stresi eyleme dönüştürür", "trait3": "Çaresiz hissetmektense savaşmayı tercih eder" },
-    "flighter": { "name": "Kaçak", "tagline": "Kaçar, kaçınır, meşgul kalarak stresten uzaklaşır", "description": "Hayatta kalma içgüdün kaçmak — her zaman fiziksel değil, duygusal. Stres göründüğünde kaçarsın. Meşgul kalır, aşırı çalışır, sürekli scroll yaparsın. Kaçınma senin zırhın. Gücün uyum yeteneği, ama kaçınma sorunların seni takip etmesine neden olur.", "trait1": "Ne pahasına olursa olsun çatışmadan kaçınır", "trait2": "Meşguliyeti kaçış aracı olarak kullanır", "trait3": "Dikkat dağıtma ustası" },
-    "freezer": { "name": "Donuk", "tagline": "Kapanır, disosiye olur, baskı altında uyuşur", "description": "Dünya çok gürültülü olduğunda sessizleşirsin. Stres seni savaştırmaz ya da kaçırmaz — dondurur. Kapanır, disosiye olur, dalarsın. Kararlar imkansız görünür. Bu tembellik değil — sinir sisteminin koruma moduna girmesidir. Zorluk erimesini, yeniden bağlanmayı ve hareket etmeyi öğrenmektir.", "trait1": "Kararlarla felce uğrar", "trait2": "Baskı altında dalar", "trait3": "Bunaldığında disosiye olur" },
-    "fawner": { "name": "Uyumlu", "tagline": "Başkalarını memnun eder, aşırı uyum sağlar, barış için kendini kaybeder", "description": "Stres tepkin, başkalarının ihtiyacı olan kişi olmaktır. Memnun eder, aşırı uyum sağlar, katılmadığında katılır, acı çekerken gülümser. Çatışma seni korkutur — zayıf olduğun için değil, hayatta kalma stratejin tehdit edici olmamak olduğu için. Yeteneğin derin empati, ama bedeli kendini tamamen kaybetmek. Sen de önemlisin.", "trait1": "Hayır düşünürken evet der", "trait2": "Kendinden önce başkalarını düşünür", "trait3": "Uyum yoluyla çatışmadan kaçınır" }
+    "fighter": {
+      "name": "Savaşçı",
+      "tagline": "Yüzleşir, kontrolü alır, stresi eyleme dönüştürür",
+      "description": "Stres geldiğinde geri adım atmazsın — ileri atılırsın. Sinir sistemin yüzleşmeyi seçer, kaygıyı saldırganlığa, korkuyu ateşe dönüştürür. Tartışır, baskı yapar, kontrolü alırsın. Bu inanılmaz güçlendirici olabilir ama çatışmaları gereksiz yere tırmandırabilir. Gücün cesaret, ama zorluk ne zaman geri çekileceğini bilmek.",
+      "trait1": "Sorunlarla doğrudan yüzleşir",
+      "trait2": "Stresi eyleme dönüştürür",
+      "trait3": "Çaresiz hissetmektense savaşmayı tercih eder"
+    },
+    "flighter": {
+      "name": "Kaçak",
+      "tagline": "Kaçar, kaçınır, meşgul kalarak stresten uzaklaşır",
+      "description": "Hayatta kalma içgüdün kaçmak — her zaman fiziksel değil, duygusal. Stres göründüğünde kaçarsın. Meşgul kalır, aşırı çalışır, sürekli scroll yaparsın. Kaçınma senin zırhın. Gücün uyum yeteneği, ama kaçınma sorunların seni takip etmesine neden olur.",
+      "trait1": "Ne pahasına olursa olsun çatışmadan kaçınır",
+      "trait2": "Meşguliyeti kaçış aracı olarak kullanır",
+      "trait3": "Dikkat dağıtma ustası"
+    },
+    "freezer": {
+      "name": "Donuk",
+      "tagline": "Kapanır, disosiye olur, baskı altında uyuşur",
+      "description": "Dünya çok gürültülü olduğunda sessizleşirsin. Stres seni savaştırmaz ya da kaçırmaz — dondurur. Kapanır, disosiye olur, dalarsın. Kararlar imkansız görünür. Bu tembellik değil — sinir sisteminin koruma moduna girmesidir. Zorluk erimesini, yeniden bağlanmayı ve hareket etmeyi öğrenmektir.",
+      "trait1": "Kararlarla felce uğrar",
+      "trait2": "Baskı altında dalar",
+      "trait3": "Bunaldığında disosiye olur"
+    },
+    "fawner": {
+      "name": "Uyumlu",
+      "tagline": "Başkalarını memnun eder, aşırı uyum sağlar, barış için kendini kaybeder",
+      "description": "Stres tepkin, başkalarının ihtiyacı olan kişi olmaktır. Memnun eder, aşırı uyum sağlar, katılmadığında katılır, acı çekerken gülümser. Çatışma seni korkutur — zayıf olduğun için değil, hayatta kalma stratejin tehdit edici olmamak olduğu için. Yeteneğin derin empati, ama bedeli kendini tamamen kaybetmek. Sen de önemlisin.",
+      "trait1": "Hayır düşünürken evet der",
+      "trait2": "Kendinden önce başkalarını düşünür",
+      "trait3": "Uyum yoluyla çatışmadan kaçınır"
+    }
   },
-  "share": { "text": "Benim stres tepki tipim '{type}'! Seninki ne?" },
-  "related": { "stressCheck": "Stres Kontrolü", "burnoutTest": "Tükenmişlik Testi", "overthinkerTest": "Aşırı Düşünme Testi", "hspTest": "HSP Testi" },
-  "game": { "back": "DopaBrain Ana Sayfa" }
+  "share": {
+    "text": "Benim stres tepki tipim '{type}'! Seninki ne?"
+  },
+  "related": {
+    "stressCheck": "Stres Kontrolü",
+    "burnoutTest": "Tükenmişlik Testi",
+    "overthinkerTest": "Aşırı Düşünme Testi",
+    "hspTest": "HSP Testi",
+    "anxietyType": "Kaygı Tipi"
+  },
+  "game": {
+    "back": "DopaBrain Ana Sayfa"
+  }
 }

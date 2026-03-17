@@ -1,29 +1,151 @@
 {
-  "app": { "title": "Teste de Resposta ao Estresse", "loading": "Carregando...", "skipLink": "Pular para o conteúdo" },
-  "meta": { "description": "Qual é o seu tipo de resposta ao estresse? Luta, fuga, congelamento ou submissão? Descubra com 8 perguntas!", "keywords": "teste resposta ao estresse, luta fuga congelamento submissão, resposta ao trauma, tipo de estresse, teste psicológico", "og_title": "Teste de Resposta ao Estresse - Luta/Fuga/Congelamento/Submissão", "og_description": "8 perguntas revelam seu tipo de resposta ao estresse!", "twitter_title": "Teste de Resposta ao Estresse - Luta/Fuga/Congelamento/Submissão", "twitter_description": "8 perguntas revelam seu tipo de resposta ao estresse!", "page_title": "Teste de Resposta ao Estresse - Luta/Fuga/Congelamento/Submissão | DopaBrain" },
-  "intro": { "title": "Teste de Resposta ao Estresse", "subtitle": "Luta, fuga, congelamento ou submissão?", "social_proof": "pessoas testadas", "feature_types": "4 tipos de resposta ao estresse", "feature_questions": "8 cenários de estresse", "feature_metrics": "5 dimensões de estresse", "time_estimate": "Leva cerca de 1 minuto" },
-  "carousel": { "fighter": "Lutador", "flighter": "Fugitivo", "freezer": "Congelado", "fawner": "Submisso" },
-  "button": { "start": "Descubra sua resposta ao estresse", "retry": "Tentar novamente", "share_kakao": "KakaoTalk", "share_twitter": "Twitter", "share_facebook": "Facebook", "share_copy": "Copiar link" },
+  "app": {
+    "title": "Teste de Resposta ao Estresse",
+    "loading": "Carregando...",
+    "skipLink": "Pular para o conteúdo"
+  },
+  "meta": {
+    "description": "Qual é o seu tipo de resposta ao estresse? Luta, fuga, congelamento ou submissão? Descubra com 8 perguntas!",
+    "keywords": "teste resposta ao estresse, luta fuga congelamento submissão, resposta ao trauma, tipo de estresse, teste psicológico",
+    "og_title": "Teste de Resposta ao Estresse - Luta/Fuga/Congelamento/Submissão",
+    "og_description": "8 perguntas revelam seu tipo de resposta ao estresse!",
+    "twitter_title": "Teste de Resposta ao Estresse - Luta/Fuga/Congelamento/Submissão",
+    "twitter_description": "8 perguntas revelam seu tipo de resposta ao estresse!",
+    "page_title": "Teste de Resposta ao Estresse - Luta/Fuga/Congelamento/Submissão | DopaBrain"
+  },
+  "intro": {
+    "title": "Teste de Resposta ao Estresse",
+    "subtitle": "Luta, fuga, congelamento ou submissão?",
+    "social_proof": "pessoas testadas",
+    "feature_types": "4 tipos de resposta ao estresse",
+    "feature_questions": "8 cenários de estresse",
+    "feature_metrics": "5 dimensões de estresse",
+    "time_estimate": "Leva cerca de 1 minuto"
+  },
+  "carousel": {
+    "fighter": "Lutador",
+    "flighter": "Fugitivo",
+    "freezer": "Congelado",
+    "fawner": "Submisso"
+  },
+  "button": {
+    "start": "Descubra sua resposta ao estresse",
+    "retry": "Tentar novamente",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copiar link"
+  },
   "question": {
-    "0": "Quando alguém te critica injustamente, você...", "0a": "Revida e se defende imediatamente", "0b": "Sai da situação o mais rápido possível", "0c": "Congela e não consegue encontrar palavras", "0d": "Concorda para manter a paz",
-    "1": "Seu chefe define um prazo impossível, você...", "1a": "Argumenta que é irracional e resiste", "1b": "Começa a procurar emprego secretamente naquela noite", "1c": "Olha fixamente para a tarefa, incapaz de começar", "1d": "Diz 'Claro, sem problema!' com um sorriso",
-    "2": "Um amigo cancela planos de última hora, você...", "2a": "Confronta-o por ser desconsiderado", "2b": "Faz outros planos imediatamente para se manter ocupado", "2c": "Fica sentado sozinho, sem saber o que fazer", "2d": "Diz 'Não se preocupe!' e o tranquiliza",
-    "3": "Em uma discussão acalorada, você...", "3a": "Dobra a aposta e se recusa a recuar", "3b": "Sai antes que as coisas piorem", "3c": "Fica completamente em silêncio e se fecha", "3d": "Pede desculpas mesmo sabendo que está certo",
-    "4": "Quando sobrecarregado por tarefas, você...", "4a": "Avança agressivamente, sem pausas", "4b": "Escapa para redes sociais ou distrações", "4c": "Olha para a lista completamente paralisado", "4d": "Pergunta primeiro o que os outros precisam",
-    "5": "Alguém te corta no trânsito, você...", "5a": "Buzina, grita e faz questão de avisar", "5b": "Pega uma rota diferente para evitá-los", "5c": "Agarra o volante, congelado pelo susto", "5d": "Acena para que passem na frente",
-    "6": "Você recebe críticas duras sobre seu trabalho, você...", "6a": "Defende suas escolhas e rebate", "6b": "Começa a procurar outros projetos imediatamente", "6c": "Relê sem emoção, incapaz de processar", "6d": "Reescreve tudo para agradá-los completamente",
-    "7": "Diante de uma grande decisão na vida, você...", "7a": "Decide rápido e se compromete totalmente", "7b": "Evita pensar nisso o máximo possível", "7c": "Não consegue escolher e adia indefinidamente", "7d": "Pergunta a todos o que acham que deveria fazer"
+    "0": "Quando alguém te critica injustamente, você...",
+    "0a": "Revida e se defende imediatamente",
+    "0b": "Sai da situação o mais rápido possível",
+    "0c": "Congela e não consegue encontrar palavras",
+    "0d": "Concorda para manter a paz",
+    "1": "Seu chefe define um prazo impossível, você...",
+    "1a": "Argumenta que é irracional e resiste",
+    "1b": "Começa a procurar emprego secretamente naquela noite",
+    "1c": "Olha fixamente para a tarefa, incapaz de começar",
+    "1d": "Diz 'Claro, sem problema!' com um sorriso",
+    "2": "Um amigo cancela planos de última hora, você...",
+    "2a": "Confronta-o por ser desconsiderado",
+    "2b": "Faz outros planos imediatamente para se manter ocupado",
+    "2c": "Fica sentado sozinho, sem saber o que fazer",
+    "2d": "Diz 'Não se preocupe!' e o tranquiliza",
+    "3": "Em uma discussão acalorada, você...",
+    "3a": "Dobra a aposta e se recusa a recuar",
+    "3b": "Sai antes que as coisas piorem",
+    "3c": "Fica completamente em silêncio e se fecha",
+    "3d": "Pede desculpas mesmo sabendo que está certo",
+    "4": "Quando sobrecarregado por tarefas, você...",
+    "4a": "Avança agressivamente, sem pausas",
+    "4b": "Escapa para redes sociais ou distrações",
+    "4c": "Olha para a lista completamente paralisado",
+    "4d": "Pergunta primeiro o que os outros precisam",
+    "5": "Alguém te corta no trânsito, você...",
+    "5a": "Buzina, grita e faz questão de avisar",
+    "5b": "Pega uma rota diferente para evitá-los",
+    "5c": "Agarra o volante, congelado pelo susto",
+    "5d": "Acena para que passem na frente",
+    "6": "Você recebe críticas duras sobre seu trabalho, você...",
+    "6a": "Defende suas escolhas e rebate",
+    "6b": "Começa a procurar outros projetos imediatamente",
+    "6c": "Relê sem emoção, incapaz de processar",
+    "6d": "Reescreve tudo para agradá-los completamente",
+    "7": "Diante de uma grande decisão na vida, você...",
+    "7a": "Decide rápido e se compromete totalmente",
+    "7b": "Evita pensar nisso o máximo possível",
+    "7c": "Não consegue escolher e adia indefinidamente",
+    "7d": "Pergunta a todos o que acham que deveria fazer"
   },
-  "analyzing": { "title": "Analisando seus padrões de estresse...", "scanning": "Escaneando respostas ao estresse...", "matching": "Combinando com tipos de resposta...", "comparing": "Comparando padrões comportamentais...", "complete": "Análise completa!" },
-  "result": { "your_type": "Seu tipo de resposta ao estresse", "stress_dimensions": "Dimensões de estresse", "stress_metrics": "Pontuações por dimensão", "key_traits": "Padrões-chave", "moreTests": "Explore mais", "share": "Compartilhe seu resultado", "percentile": "Apenas {pct} dos participantes são do tipo {type}" },
-  "metric": { "confrontation": "Confrontação", "avoidance": "Evitação", "shutdown": "Desligamento", "accommodation": "Acomodação", "resilience": "Resiliência" },
+  "analyzing": {
+    "title": "Analisando seus padrões de estresse...",
+    "scanning": "Escaneando respostas ao estresse...",
+    "matching": "Combinando com tipos de resposta...",
+    "comparing": "Comparando padrões comportamentais...",
+    "complete": "Análise completa!"
+  },
+  "result": {
+    "your_type": "Seu tipo de resposta ao estresse",
+    "stress_dimensions": "Dimensões de estresse",
+    "stress_metrics": "Pontuações por dimensão",
+    "key_traits": "Padrões-chave",
+    "moreTests": "Explore mais",
+    "share": "Compartilhe seu resultado",
+    "percentile": "Apenas {pct} dos participantes são do tipo {type}"
+  },
+  "metric": {
+    "confrontation": "Confrontação",
+    "avoidance": "Evitação",
+    "shutdown": "Desligamento",
+    "accommodation": "Acomodação",
+    "resilience": "Resiliência"
+  },
   "type": {
-    "fighter": { "name": "Lutador", "tagline": "Confronta, assume o controle, canaliza o estresse em ação", "description": "Quando o estresse chega, você não recua — avança. Seu sistema nervoso escolhe a confrontação, transformando ansiedade em agressão e medo em fogo. Você discute, pressiona e assume o controle. Isso pode ser incrivelmente empoderador, mas também pode escalar conflitos desnecessariamente. Sua força é a coragem, mas o desafio é saber quando recuar.", "trait1": "Enfrenta problemas de frente", "trait2": "Canaliza estresse em ação", "trait3": "Prefere lutar a se sentir indefeso" },
-    "flighter": { "name": "Fugitivo", "tagline": "Escapa, evita, se mantém ocupado para superar o estresse", "description": "Seu instinto de sobrevivência é fugir — nem sempre fisicamente, mas emocionalmente. Quando o estresse aparece, você escapa. Se mantém ocupado, trabalha demais, scrolla sem fim. A evitação é sua armadura. Sua força é a adaptabilidade, mas a evitação faz os problemas te seguirem.", "trait1": "Evita conflito a todo custo", "trait2": "Usa ocupação como fuga", "trait3": "Mestre da distração" },
-    "freezer": { "name": "Congelado", "tagline": "Desliga, dissocia, fica entorpecido sob pressão", "description": "Quando o mundo fica barulhento demais, você fica quieto. O estresse não te faz lutar ou fugir — te congela. Você desliga, dissocia, viaja. Decisões parecem impossíveis. Isso não é preguiça — é seu sistema nervoso entrando em modo de proteção. Seu desafio é aprender a descongelar e se reconectar.", "trait1": "Paralisado por decisões", "trait2": "Desliga sob pressão", "trait3": "Dissocia quando sobrecarregado" },
-    "fawner": { "name": "Submisso", "tagline": "Agrada os outros, se acomoda demais, perde a identidade pela paz", "description": "Sua resposta ao estresse é se tornar o que os outros precisam. Você agrada, se acomoda demais, concorda quando discorda e sorri quando está sofrendo. O conflito te aterroriza — não por fraqueza, mas porque ser inofensivo é sua estratégia de sobrevivência. Seu dom é a empatia profunda, mas o custo é se perder completamente. Você também importa.", "trait1": "Diz sim quando pensa não", "trait2": "Prioriza os outros acima de si", "trait3": "Evita conflito pela submissão" }
+    "fighter": {
+      "name": "Lutador",
+      "tagline": "Confronta, assume o controle, canaliza o estresse em ação",
+      "description": "Quando o estresse chega, você não recua — avança. Seu sistema nervoso escolhe a confrontação, transformando ansiedade em agressão e medo em fogo. Você discute, pressiona e assume o controle. Isso pode ser incrivelmente empoderador, mas também pode escalar conflitos desnecessariamente. Sua força é a coragem, mas o desafio é saber quando recuar.",
+      "trait1": "Enfrenta problemas de frente",
+      "trait2": "Canaliza estresse em ação",
+      "trait3": "Prefere lutar a se sentir indefeso"
+    },
+    "flighter": {
+      "name": "Fugitivo",
+      "tagline": "Escapa, evita, se mantém ocupado para superar o estresse",
+      "description": "Seu instinto de sobrevivência é fugir — nem sempre fisicamente, mas emocionalmente. Quando o estresse aparece, você escapa. Se mantém ocupado, trabalha demais, scrolla sem fim. A evitação é sua armadura. Sua força é a adaptabilidade, mas a evitação faz os problemas te seguirem.",
+      "trait1": "Evita conflito a todo custo",
+      "trait2": "Usa ocupação como fuga",
+      "trait3": "Mestre da distração"
+    },
+    "freezer": {
+      "name": "Congelado",
+      "tagline": "Desliga, dissocia, fica entorpecido sob pressão",
+      "description": "Quando o mundo fica barulhento demais, você fica quieto. O estresse não te faz lutar ou fugir — te congela. Você desliga, dissocia, viaja. Decisões parecem impossíveis. Isso não é preguiça — é seu sistema nervoso entrando em modo de proteção. Seu desafio é aprender a descongelar e se reconectar.",
+      "trait1": "Paralisado por decisões",
+      "trait2": "Desliga sob pressão",
+      "trait3": "Dissocia quando sobrecarregado"
+    },
+    "fawner": {
+      "name": "Submisso",
+      "tagline": "Agrada os outros, se acomoda demais, perde a identidade pela paz",
+      "description": "Sua resposta ao estresse é se tornar o que os outros precisam. Você agrada, se acomoda demais, concorda quando discorda e sorri quando está sofrendo. O conflito te aterroriza — não por fraqueza, mas porque ser inofensivo é sua estratégia de sobrevivência. Seu dom é a empatia profunda, mas o custo é se perder completamente. Você também importa.",
+      "trait1": "Diz sim quando pensa não",
+      "trait2": "Prioriza os outros acima de si",
+      "trait3": "Evita conflito pela submissão"
+    }
   },
-  "share": { "text": "Meu tipo de resposta ao estresse é '{type}'! Qual é o seu?" },
-  "related": { "stressCheck": "Teste de Estresse", "burnoutTest": "Teste de Burnout", "overthinkerTest": "Teste de Pensar Demais", "hspTest": "Teste PAS" },
-  "game": { "back": "Início DopaBrain" }
+  "share": {
+    "text": "Meu tipo de resposta ao estresse é '{type}'! Qual é o seu?"
+  },
+  "related": {
+    "stressCheck": "Teste de Estresse",
+    "burnoutTest": "Teste de Burnout",
+    "overthinkerTest": "Teste de Pensar Demais",
+    "hspTest": "Teste PAS",
+    "anxietyType": "Tipo de Ansiedade"
+  },
+  "game": {
+    "back": "Início DopaBrain"
+  }
 }
