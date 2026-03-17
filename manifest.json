@@ -1,0 +1,24 @@
+{
+  "name": "Stress Response Test - Fight/Flight/Freeze/Fawn",
+  "short_name": "Stress Response",
+  "description": "Discover your stress response type: Fighter, Flighter, Freezer, or Fawner through 8 scenario-based questions",
+  "start_url": "/stress-response/",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

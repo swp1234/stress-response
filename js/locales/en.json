@@ -1,0 +1,157 @@
+{
+  "app": {
+    "title": "Stress Response Test",
+    "loading": "Loading...",
+    "skipLink": "Skip to main"
+  },
+  "meta": {
+    "description": "What's your stress response type? Fight, Flight, Freeze, or Fawn? Take this 8-question quiz to discover how you react under pressure!",
+    "keywords": "stress response test, fight flight freeze fawn, trauma response, stress type quiz, psychology test",
+    "og_title": "Stress Response Test - Fight/Flight/Freeze/Fawn",
+    "og_description": "8 questions reveal your stress response type!",
+    "twitter_title": "Stress Response Test - Fight/Flight/Freeze/Fawn",
+    "twitter_description": "8 questions reveal your stress response type!",
+    "page_title": "Stress Response Test - Fight/Flight/Freeze/Fawn | DopaBrain"
+  },
+  "intro": {
+    "title": "Stress Response Test",
+    "subtitle": "Fight, Flight, Freeze, or Fawn?",
+    "social_proof": "people tested",
+    "feature_types": "4 stress response types",
+    "feature_questions": "8 stress scenarios",
+    "feature_metrics": "5 stress dimensions",
+    "time_estimate": "Takes about 1 minute"
+  },
+  "carousel": {
+    "fighter": "Fighter",
+    "flighter": "Flighter",
+    "freezer": "Freezer",
+    "fawner": "Fawner"
+  },
+  "button": {
+    "start": "Discover Your Stress Response",
+    "retry": "Try Again",
+    "share_kakao": "KakaoTalk",
+    "share_twitter": "Twitter",
+    "share_facebook": "Facebook",
+    "share_copy": "Copy Link"
+  },
+  "question": {
+    "0": "When someone criticizes you unfairly, you...",
+    "0a": "Fight back and defend yourself immediately",
+    "0b": "Leave the situation as fast as possible",
+    "0c": "Freeze up and can't find words to respond",
+    "0d": "Agree with them to keep the peace",
+
+    "1": "Your boss assigns an impossible deadline, you...",
+    "1a": "Argue that it's unreasonable and push back",
+    "1b": "Secretly start job searching that evening",
+    "1c": "Stare blankly at the task, unable to start",
+    "1d": "Say 'Sure, no problem!' with a smile",
+
+    "2": "A friend cancels plans last minute, you...",
+    "2a": "Confront them about being inconsiderate",
+    "2b": "Immediately make other plans to stay busy",
+    "2c": "Sit alone, unsure what to do with yourself",
+    "2d": "Say 'Don't worry about it!' and reassure them",
+
+    "3": "In a heated argument, you...",
+    "3a": "Double down and refuse to back off",
+    "3b": "Walk away before things escalate",
+    "3c": "Go completely silent and shut down",
+    "3d": "Apologize even when you know you're right",
+
+    "4": "When overwhelmed by tasks, you...",
+    "4a": "Power through aggressively, no breaks",
+    "4b": "Escape to social media or distractions",
+    "4c": "Stare at the list, completely paralyzed",
+    "4d": "Ask everyone else what they need first",
+
+    "5": "Someone cuts you off in traffic, you...",
+    "5a": "Honk, yell, and let them know about it",
+    "5b": "Take a different route to avoid them",
+    "5c": "Grip the steering wheel, frozen in shock",
+    "5d": "Wave them ahead and let them go",
+
+    "6": "You receive harsh feedback on your work, you...",
+    "6a": "Defend your choices and push back",
+    "6b": "Start looking for other projects immediately",
+    "6c": "Reread it numbly, unable to process",
+    "6d": "Rewrite everything to please them completely",
+
+    "7": "When facing a major life decision, you...",
+    "7a": "Decide quickly and commit with full force",
+    "7b": "Avoid thinking about it as long as possible",
+    "7c": "Can't choose and delay indefinitely",
+    "7d": "Ask everyone else what they think you should do"
+  },
+  "analyzing": {
+    "title": "Analyzing your stress patterns...",
+    "scanning": "Scanning stress responses...",
+    "matching": "Matching with response types...",
+    "comparing": "Comparing behavioral patterns...",
+    "complete": "Analysis complete!"
+  },
+  "result": {
+    "your_type": "Your Stress Response Type",
+    "stress_dimensions": "Stress Dimensions",
+    "stress_metrics": "Dimension Scores",
+    "key_traits": "Key Patterns",
+    "moreTests": "Explore More",
+    "share": "Share Your Result",
+    "percentile": "Only {pct} of all participants are the {type} type"
+  },
+  "metric": {
+    "confrontation": "Confrontation",
+    "avoidance": "Avoidance",
+    "shutdown": "Shutdown",
+    "accommodation": "Accommodation",
+    "resilience": "Resilience"
+  },
+  "type": {
+    "fighter": {
+      "name": "Fighter",
+      "tagline": "Confrontational, takes control, channels stress into action",
+      "description": "When stress hits, you don't back down — you charge forward. Your nervous system defaults to confrontation, turning anxiety into aggression and fear into fire. You argue, you push back, you take control. While this can be incredibly empowering and protective, it can also escalate conflicts unnecessarily. You'd rather burn bridges than feel powerless. Your strength is your courage, but your challenge is knowing when to stand down.",
+      "trait1": "Confronts problems head-on",
+      "trait2": "Channels stress into action",
+      "trait3": "Would rather fight than feel helpless"
+    },
+    "flighter": {
+      "name": "Flighter",
+      "tagline": "Escapes, avoids, stays busy to outrun the stress",
+      "description": "Your survival instinct is to run — not always physically, but emotionally. When stress shows up, you escape. You stay busy, overwork, scroll endlessly, or simply vanish from situations that feel threatening. Avoidance is your armor. You're the master of distraction, keeping yourself so occupied that you never have to sit with uncomfortable feelings. Your strength is adaptability, but avoidance means problems keep following you.",
+      "trait1": "Avoids conflict at all costs",
+      "trait2": "Uses busyness as escape",
+      "trait3": "Master of distraction"
+    },
+    "freezer": {
+      "name": "Freezer",
+      "tagline": "Shuts down, dissociates, goes numb under pressure",
+      "description": "When the world gets too loud, you go quiet. Stress doesn't make you fight or flee — it makes you freeze. You shut down, dissociate, zone out. Decisions feel impossible. Your brain hits pause, and you become a spectator in your own life. This isn't laziness or apathy — it's your nervous system going into protective shutdown. Your challenge is learning to thaw, to reconnect, to move when everything in you says stay still.",
+      "trait1": "Paralyzed by decisions",
+      "trait2": "Zones out under pressure",
+      "trait3": "Dissociates when overwhelmed"
+    },
+    "fawner": {
+      "name": "Fawner",
+      "tagline": "People-pleases, over-accommodates, loses self to keep peace",
+      "description": "Your stress response is to become whatever others need you to be. You people-please, over-accommodate, agree when you disagree, and smile when you're hurting. Conflict terrifies you — not because you're weak, but because your survival strategy is to be non-threatening. You've learned that making others happy keeps you safe. Your gift is deep empathy, but the cost is losing yourself entirely. You matter too.",
+      "trait1": "Says yes when meaning no",
+      "trait2": "Prioritizes others over self",
+      "trait3": "Avoids conflict through compliance"
+    }
+  },
+  "share": {
+    "text": "My stress response type is '{type}'! What's yours?"
+  },
+  "related": {
+    "stressCheck": "Stress Check",
+    "burnoutTest": "Burnout Test",
+    "overthinkerTest": "Overthinker Test",
+    "hspTest": "HSP Test"
+  },
+  "game": {
+    "back": "DopaBrain Home"
+  }
+}
