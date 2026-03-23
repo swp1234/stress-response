@@ -143,7 +143,8 @@
     "burnoutTest": "번아웃 테스트",
     "overthinkerTest": "생각과다 테스트",
     "hspTest": "HSP 테스트",
-    "anxietyType": "불안 유형"
+    "anxietyType": "불안 유형",
+    "attachmentStyle": "애착 유형"
   },
   "game": {
     "back": "DopaBrain 홈"
