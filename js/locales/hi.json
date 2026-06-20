@@ -143,7 +143,8 @@
     "burnoutTest": "बर्नआउट टेस्ट",
     "overthinkerTest": "अत्यधिक सोच टेस्ट",
     "hspTest": "HSP टेस्ट",
-    "anxietyType": "चिंता प्रकार"
+    "anxietyType": "चिंता प्रकार",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain होम"

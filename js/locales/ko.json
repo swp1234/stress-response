@@ -144,7 +144,8 @@
     "overthinkerTest": "생각과다 테스트",
     "hspTest": "HSP 테스트",
     "anxietyType": "불안 유형",
-    "attachmentStyle": "애착 유형"
+    "attachmentStyle": "애착 유형",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain 홈"

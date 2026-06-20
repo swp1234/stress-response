@@ -144,7 +144,8 @@
     "overthinkerTest": "Overthinker Test",
     "hspTest": "HSP Test",
     "anxietyType": "Anxiety Type",
-    "attachmentStyle": "Attachment Style"
+    "attachmentStyle": "Attachment Style",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "DopaBrain Home"

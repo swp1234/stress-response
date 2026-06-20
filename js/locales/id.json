@@ -143,7 +143,8 @@
     "burnoutTest": "Tes Burnout",
     "overthinkerTest": "Tes Overthinking",
     "hspTest": "Tes HSP",
-    "anxietyType": "Tipe Kecemasan"
+    "anxietyType": "Tipe Kecemasan",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "Beranda DopaBrain"

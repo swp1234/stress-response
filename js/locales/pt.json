@@ -143,7 +143,8 @@
     "burnoutTest": "Teste de Burnout",
     "overthinkerTest": "Teste de Pensar Demais",
     "hspTest": "Teste PAS",
-    "anxietyType": "Tipo de Ansiedade"
+    "anxietyType": "Tipo de Ansiedade",
+    "hailMaryMode": "Hail Mary Mode Test"
   },
   "game": {
     "back": "Início DopaBrain"
