@@ -31,6 +31,7 @@
   "button": {
     "start": "发现你的压力反应",
     "retry": "重新测试",
+    "plan": "🗓️ 把结果变成7天行动计划",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",

@@ -31,6 +31,7 @@
   "button": {
     "start": "나의 스트레스 반응 알아보기",
     "retry": "다시 하기",
+    "plan": "🗓️ 이 결과로 7일 실천 플랜 만들기",
     "share_kakao": "카카오톡",
     "share_twitter": "트위터",
     "share_facebook": "페이스북",

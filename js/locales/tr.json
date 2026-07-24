@@ -31,6 +31,7 @@
   "button": {
     "start": "Stres Tepkini Keşfet",
     "retry": "Tekrar Dene",
+    "plan": "🗓️ Bu sonucu 7 günlük eylem planına dönüştür",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",

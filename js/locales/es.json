@@ -31,6 +31,7 @@
   "button": {
     "start": "Descubre tu respuesta al estrés",
     "retry": "Intentar de nuevo",
+    "plan": "🗓️ Convertir este resultado en un plan de 7 días",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",

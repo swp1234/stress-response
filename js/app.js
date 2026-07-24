@@ -169,6 +169,16 @@ class StressResponseApp {
         document.getElementById('share-twitter')?.addEventListener('click', () => this.shareTwitter());
         document.getElementById('share-facebook')?.addEventListener('click', () => this.shareFacebook());
         document.getElementById('share-copy')?.addEventListener('click', () => this.shareCopy());
+        document.getElementById('stress-plan-link')?.addEventListener('click', () => {
+            if (typeof gtag === 'function') {
+                gtag('event', 'stress_plan_click', {
+                    event_category: 'engagement',
+                    source_app: 'stress-response',
+                    surface: 'result_primary_action',
+                    result_type: this.resultType ? this.resultType.id : 'unknown'
+                });
+            }
+        });
     }
 
     hideLoader() {
@@ -477,13 +487,6 @@ class StressResponseApp {
             });
         }
 
-        // Percentile
-        const percentile = document.getElementById('percentile-stat');
-        const pctVal = Math.floor(Math.random() * 20) + 15;
-        if (percentile) {
-            percentile.innerHTML = t('result.percentile').replace('{pct}', '<strong>' + pctVal + '%</strong>').replace('{type}', t(type.nameKey));
-        }
-
         // Traits
         const traitsList = document.getElementById('traits-list');
         if (traitsList) {
@@ -499,12 +502,29 @@ class StressResponseApp {
         // Confetti
         this.spawnConfetti();
 
+        const planLink = document.getElementById('stress-plan-link');
+        if (planLink) {
+            const language = window.i18n?.getCurrentLanguage?.() || 'en';
+            const target = new URL('/stress-check/plan.html', window.location.origin);
+            target.searchParams.set('lang', language);
+            target.searchParams.set('focus', 'daily');
+            target.searchParams.set('level', 'moderate');
+            target.searchParams.set('source', 'stress_response_result');
+            planLink.href = target.pathname + target.search;
+        }
+
         // GA4
         if (typeof gtag === 'function') {
             gtag('event', 'quiz_complete', {
                 event_category: 'stress_response',
                 event_label: type.id,
                 value: 1
+            });
+            gtag('event', 'stress_plan_cta_view', {
+                event_category: 'engagement',
+                source_app: 'stress-response',
+                surface: 'result_primary_action',
+                result_type: type.id
             });
         }
     }

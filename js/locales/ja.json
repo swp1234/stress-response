@@ -31,6 +31,7 @@
   "button": {
     "start": "ストレス反応を診断する",
     "retry": "もう一度",
+    "plan": "🗓️ この結果から7日間の実践プランを作る",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",

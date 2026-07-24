@@ -31,6 +31,7 @@
   "button": {
     "start": "Узнать свою реакцию на стресс",
     "retry": "Попробовать снова",
+    "plan": "🗓️ Превратить результат в 7-дневный план действий",
     "share_kakao": "KakaoTalk",
     "share_twitter": "Twitter",
     "share_facebook": "Facebook",
