@@ -1,151 +1,114 @@
 {
-  "app": {
-    "title": "Test de Respuesta al Estrés",
-    "loading": "Cargando...",
-    "skipLink": "Saltar al contenido"
-  },
   "meta": {
-    "description": "¿Cuál es tu tipo de respuesta al estrés? ¿Lucha, huida, parálisis o complacencia? ¡Descúbrelo con 8 preguntas!",
-    "keywords": "test respuesta estrés, lucha huida parálisis complacencia, respuesta trauma, tipo estrés, test psicológico",
-    "og_title": "Test de Respuesta al Estrés - Lucha/Huida/Parálisis/Complacencia",
-    "og_description": "¡8 preguntas revelan tu tipo de respuesta al estrés!",
-    "twitter_title": "Test de Respuesta al Estrés - Lucha/Huida/Parálisis/Complacencia",
-    "twitter_description": "¡8 preguntas revelan tu tipo de respuesta al estrés!",
-    "page_title": "Test de Respuesta al Estrés - Lucha/Huida/Parálisis/Complacencia | DopaBrain"
+    "page_title": "Elecciones ante el estrés | DopaBrain",
+    "description": "Compara tus elecciones en ocho situaciones cotidianas estresantes. Es una reflexión privada, no un diagnóstico ni una evaluación validada.",
+    "og_title": "Elecciones ante el estrés",
+    "og_description": "Compara tus elecciones en ocho situaciones cotidianas estresantes. Es una reflexión privada, no un diagnóstico ni una evaluación validada.",
+    "twitter_title": "Elecciones ante el estrés",
+    "twitter_description": "Compara tus elecciones en ocho situaciones cotidianas estresantes. Es una reflexión privada, no un diagnóstico ni una evaluación validada."
+  },
+  "app": {
+    "skipLink": "Saltar al contenido",
+    "loading": "Cargando..."
   },
   "intro": {
-    "title": "Test de Respuesta al Estrés",
-    "subtitle": "¿Lucha, huida, parálisis o complacencia?",
-    "social_proof": "personas evaluadas",
-    "feature_types": "4 tipos de respuesta al estrés",
-    "feature_questions": "8 escenarios de estrés",
-    "feature_metrics": "5 dimensiones de estrés",
-    "time_estimate": "Toma alrededor de 1 minuto"
+    "title": "Elecciones ante el estrés",
+    "subtitle": "¿Afrontar, alejarte, pausar o ceder?",
+    "feature_types": "4 etiquetas de respuesta",
+    "feature_questions": "8 situaciones cotidianas",
+    "time_estimate": "Aproximadamente 1 minuto",
+    "boundary": "Esta actividad original es para reflexión privada. No diagnostica estrés, trauma ni ninguna condición de salud."
   },
   "carousel": {
-    "fighter": "Luchador",
-    "flighter": "Escapista",
-    "freezer": "Paralizado",
-    "fawner": "Complaciente"
+    "fight": "Luchador",
+    "flight": "Escapista",
+    "freeze": "Paralizado",
+    "fawn": "Complaciente"
   },
   "button": {
-    "start": "Descubre tu respuesta al estrés",
+    "start": "Comparar mis elecciones",
     "retry": "Intentar de nuevo",
-    "plan": "🗓️ Convertir este resultado en un plan de 7 días",
-    "share_kakao": "KakaoTalk",
-    "share_twitter": "Twitter",
-    "share_facebook": "Facebook",
-    "share_copy": "Copiar enlace"
+    "next_action": "Convertir esta reflexión en un plan de 3 pasos",
+    "share": "Compartir esta actividad"
   },
   "question": {
     "0": "Cuando alguien te critica injustamente, tú...",
+    "1": "Tu jefe asigna un plazo imposible, tú...",
+    "2": "Un amigo cancela planes a última hora, tú...",
+    "3": "En una discusión acalorada, tú...",
+    "4": "Cuando te abruman las tareas, tú...",
+    "5": "Alguien te corta en el tráfico, tú...",
+    "6": "Recibes críticas duras sobre tu trabajo, tú...",
+    "7": "Ante una decisión importante en la vida, tú...",
     "0a": "Respondes de inmediato y te defiendes",
     "0b": "Te vas de la situación lo más rápido posible",
     "0c": "Te quedas paralizado y no encuentras palabras",
     "0d": "Les das la razón para mantener la paz",
-    "1": "Tu jefe asigna un plazo imposible, tú...",
     "1a": "Argumentas que es irrazonable y te resistes",
     "1b": "Esa noche empiezas a buscar otro trabajo en secreto",
     "1c": "Miras la tarea en blanco, incapaz de empezar",
     "1d": "Dices '¡Claro, sin problema!' con una sonrisa",
-    "2": "Un amigo cancela planes a última hora, tú...",
     "2a": "Le confrontas por ser desconsiderado",
     "2b": "Haces otros planes inmediatamente para mantenerte ocupado",
     "2c": "Te quedas solo, sin saber qué hacer",
     "2d": "Dices '¡No te preocupes!' y lo tranquilizas",
-    "3": "En una discusión acalorada, tú...",
     "3a": "Insistes aún más y te niegas a ceder",
     "3b": "Te vas antes de que las cosas escalen",
     "3c": "Te quedas completamente en silencio y te cierras",
     "3d": "Te disculpas aunque sabes que tienes razón",
-    "4": "Cuando te abruman las tareas, tú...",
     "4a": "Avanzas agresivamente, sin descansos",
     "4b": "Escapas a las redes sociales o distracciones",
     "4c": "Miras la lista completamente paralizado",
     "4d": "Preguntas primero qué necesitan los demás",
-    "5": "Alguien te corta en el tráfico, tú...",
     "5a": "Tocas el claxon, gritas y se lo haces saber",
     "5b": "Tomas una ruta diferente para evitarlos",
     "5c": "Agarras el volante, paralizado por el susto",
     "5d": "Los dejas pasar con un gesto amable",
-    "6": "Recibes críticas duras sobre tu trabajo, tú...",
     "6a": "Defiendes tus decisiones y respondes",
     "6b": "Empiezas a buscar otros proyectos de inmediato",
     "6c": "Lo relees insensiblemente, sin poder procesarlo",
     "6d": "Reescribes todo para complacerlos por completo",
-    "7": "Ante una decisión importante en la vida, tú...",
     "7a": "Decides rápido y te comprometes al máximo",
     "7b": "Evitas pensar en ello el mayor tiempo posible",
     "7c": "No puedes elegir y lo pospones indefinidamente",
     "7d": "Preguntas a todos qué creen que deberías hacer"
   },
   "analyzing": {
-    "title": "Analizando tus patrones de estrés...",
-    "scanning": "Escaneando respuestas al estrés...",
-    "matching": "Coincidiendo con tipos de respuesta...",
-    "comparing": "Comparando patrones de comportamiento...",
-    "complete": "¡Análisis completo!"
+    "title": "Preparando tu resumen...",
+    "scanning": "Comparando tus ocho elecciones..."
   },
   "result": {
-    "your_type": "Tu tipo de respuesta al estrés",
-    "stress_dimensions": "Dimensiones de estrés",
-    "stress_metrics": "Puntuaciones por dimensión",
-    "key_traits": "Patrones clave",
-    "moreTests": "Explora más",
-    "share": "Comparte tu resultado",
-    "percentile": "Solo {pct} de los participantes son del tipo {type}"
-  },
-  "metric": {
-    "confrontation": "Confrontación",
-    "avoidance": "Evitación",
-    "shutdown": "Bloqueo",
-    "accommodation": "Complacencia",
-    "resilience": "Resiliencia"
+    "your_type": "Tu respuesta más elegida",
+    "boundary": "Este resumen solo cuenta tus elecciones aquí. No es un diagnóstico ni una evaluación validada, y no prueba cómo respondes en todas las situaciones.",
+    "calculation": "Método: cada respuesta suma un punto a la etiqueta mostrada. Se presenta la más elegida; en caso de empate se usa la primera coincidencia.",
+    "moreTests": "Explorar más",
+    "share": "Compartir esta actividad"
   },
   "type": {
-    "fighter": {
+    "fight": {
       "name": "Luchador",
-      "tagline": "Confronta, toma el control, canaliza el estrés en acción",
-      "description": "Cuando llega el estrés, no retrocedes, cargas hacia adelante. Tu sistema nervioso recurre a la confrontación, transformando la ansiedad en agresión y el miedo en fuego. Discutes, presionas, tomas el control. Esto puede ser increíblemente empoderador y protector, pero también puede escalar conflictos innecesariamente. Prefieres quemar puentes a sentirte impotente. Tu fortaleza es el coraje, pero tu desafío es saber cuándo ceder.",
-      "trait1": "Enfrenta los problemas de frente",
-      "trait2": "Canaliza el estrés en acción",
-      "trait3": "Prefiere luchar a sentirse indefenso"
+      "tagline": "Elegiste afrontar directamente con más frecuencia"
     },
-    "flighter": {
+    "flight": {
       "name": "Escapista",
-      "tagline": "Escapa, evita, se mantiene ocupado para superar el estrés",
-      "description": "Tu instinto de supervivencia es huir, no siempre físicamente, pero emocionalmente. Cuando el estrés aparece, escapas. Te mantienes ocupado, trabajas en exceso, scrolleas sin fin o simplemente desapareces de situaciones amenazantes. La evitación es tu armadura. Eres el maestro de la distracción, manteniéndote tan ocupado que nunca tienes que lidiar con sentimientos incómodos. Tu fortaleza es la adaptabilidad, pero la evitación hace que los problemas te sigan.",
-      "trait1": "Evita el conflicto a toda costa",
-      "trait2": "Usa la ocupación como escape",
-      "trait3": "Maestro de la distracción"
+      "tagline": "Elegiste alejarte con más frecuencia"
     },
-    "freezer": {
+    "freeze": {
       "name": "Paralizado",
-      "tagline": "Se bloquea, se disocia, se entumece bajo presión",
-      "description": "Cuando el mundo se vuelve demasiado ruidoso, tú te vuelves silencioso. El estrés no te hace luchar ni huir, te paraliza. Te bloqueas, te disociarse, te desconectas. Las decisiones parecen imposibles. Tu cerebro presiona pausa y te conviertes en espectador de tu propia vida. Esto no es pereza ni apatía, es tu sistema nervioso entrando en modo de protección. Tu desafío es aprender a descongelarte, a reconectarte, a moverte cuando todo en ti dice quédate quieto.",
-      "trait1": "Paralizado por las decisiones",
-      "trait2": "Se desconecta bajo presión",
-      "trait3": "Se disocia cuando está abrumado"
+      "tagline": "Elegiste pausar con más frecuencia"
     },
-    "fawner": {
+    "fawn": {
       "name": "Complaciente",
-      "tagline": "Complace a otros, se acomoda en exceso, pierde su identidad por la paz",
-      "description": "Tu respuesta al estrés es convertirte en lo que otros necesitan que seas. Complaces, te acomodas en exceso, aceptas cuando no estás de acuerdo y sonríes cuando te duele. El conflicto te aterroriza, no porque seas débil, sino porque tu estrategia de supervivencia es ser inofensivo. Has aprendido que hacer felices a otros te mantiene seguro. Tu don es la empatía profunda, pero el costo es perderte por completo. Tú también importas.",
-      "trait1": "Dice sí cuando piensa no",
-      "trait2": "Prioriza a otros sobre sí mismo",
-      "trait3": "Evita el conflicto con complacencia"
+      "tagline": "Elegiste adaptarte a otros con más frecuencia"
     }
   },
   "share": {
-    "text": "¡Mi tipo de respuesta al estrés es '{type}'! ¿Cuál es el tuyo?"
+    "text": "Reflexiona sobre tus elecciones en ocho situaciones cotidianas.",
+    "success": "Compartido"
   },
   "related": {
-    "stressCheck": "Test de Estrés",
-    "burnoutTest": "Test de Burnout",
-    "overthinkerTest": "Test de Pensar Demasiado",
-    "hspTest": "Test PAS",
-    "anxietyType": "Tipo de Ansiedad",
-    "hailMaryMode": "Hail Mary Mode Test"
+    "attachment": "Reflexión sobre apego",
+    "brain": "Test de estilo de decisión"
   },
   "game": {
     "back": "Inicio DopaBrain"
