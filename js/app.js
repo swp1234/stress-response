@@ -107,7 +107,18 @@ class StressResponseApp {
         document.getElementById('share-page')?.addEventListener('click', () => this.sharePage());
         document.getElementById('next-action')?.addEventListener('click', () => this.trackStage('stress_response_next_click'));
         document.querySelector('.related-grid')?.addEventListener('click', (event) => {
-            if (event.target.closest('.related-card')) this.trackStage('stress_response_related_click');
+            const card = event.target.closest('.related-card');
+            if (card) {
+                this.trackStage('stress_response_related_click');
+                if (!event.defaultPrevented && card.getAttribute('href')) {
+                    event.preventDefault();
+                    const lang = window.i18n?.getCurrentLanguage() || 'ko';
+                    const targetUrl = new URL(card.getAttribute('href'), window.location.origin);
+                    targetUrl.searchParams.set('lang', lang);
+                    targetUrl.searchParams.set('source', 'stress_response_related');
+                    window.location.href = targetUrl.toString();
+                }
+            }
         });
     }
 

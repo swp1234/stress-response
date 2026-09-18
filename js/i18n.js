@@ -18,7 +18,7 @@ try {
             var urlLang = params.get('lang');
             if (urlLang && SUPPORTED.indexOf(urlLang) !== -1) return urlLang;
         } catch (e) {}
-        var saved = localStorage.getItem('preferredLanguage');
+        var saved = localStorage.getItem('preferredLanguage') || localStorage.getItem('app_language');
         if (saved && SUPPORTED.indexOf(saved) !== -1) return saved;
         var browser = (navigator.language || '').split('-')[0].toLowerCase();
         if (SUPPORTED.indexOf(browser) !== -1) return browser;
@@ -68,6 +68,7 @@ try {
         if (SUPPORTED.indexOf(lang) === -1) return Promise.resolve();
         this.currentLang = lang;
         localStorage.setItem('preferredLanguage', lang);
+        try { localStorage.setItem('app_language', lang); } catch (e) {}
         var self = this;
         return this.loadTranslations(lang).then(function() {
             self.updateUI();
